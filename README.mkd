@@ -20,3 +20,4 @@ If you are interested in early access to the course, head to [fullstackedu.com](
 
 - Commit test
 -this project is for release notes validation
+- now production
